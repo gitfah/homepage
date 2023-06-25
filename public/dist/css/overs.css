@@ -3,3 +3,12 @@
     align-items: center;
     justify-content: center;
 }
+
+.head-fah{
+    text-decoration: none;
+}
+
+.head-fah .hero-title{
+    margin-left: 1em;
+    font-size: .7em;
+}
